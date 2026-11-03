@@ -1,0 +1,23 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"AUDIO1, AUDIO2",AUDIO-TH_PJ-603A_1,2,PJ-603A,C309273
+"C1, C11, C17, C19, C20, C3, C4, C44, C49, C50, C6, C8",0603,12,100n,
+"C10, C13, C14, C15, C16, C18, C21, C45, C5, C9",0603,10,10u,
+"C12, C7",0805,2,1u,
+C2,CP_Radial_D6.3mm_P2.50mm,1,220u,
+D1,D_SOD-323,1,B5819W SL,C8598
+"D2, D3",0805,2,CTL1,
+J1,PinSocket_1x02_P2.54mm_Vertical,1,9V,
+J2,BarrelJack_Horizontal,1,Barrel_Jack_MountingPin,
+J4,IDC-Header_2x05_P2.54mm_Vertical,1,MOBO,
+"R1, R19, R2, R20, R21, R22, R27, R28, R29, R3, R4, R5, R6, R7, R9",0603,15,10k,
+"R10, R12, R13, R14, R15, R16, R17, R18",0603,8,0,
+"R11, R8",0603,2,330,
+SW3,SW_DIP_SPSTx03_Slide_KingTek_DSHP03TS_W7.62mm_P1.27mm,1,MODE,
+SW4,3PDT_LED,1,~,
+TP1,TestPoint_Pad_D1.0mm,1,9V,
+"TP2, TP4, TP5, TP6, TP7, TP8, TP9",TestPoint_Pad_D1.0mm,7,~,
+TP3,TestPoint_Pad_D1.0mm,1,3V3,
+U1,WeAct2550B,1,~,
+U2,SOT-223-3_TabPin2,1,AMS1117-3.3,
+U3,SOT-223-3_TabPin2,1,AMS1117-5.0,
+U7,QFN-28-1EP_4x4mm_P0.45mm_EP2.6x2.6mm,1,ES8388,
